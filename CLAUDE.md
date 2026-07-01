@@ -123,3 +123,6 @@ drift out of sync.
   for `cn()`).
 - Tests use Vitest with `jsdom` + `@testing-library/react`, colocated in
   `__tests__` directories next to the code they cover.
+
+
+Use comments sparingly. Only comment complex code.
