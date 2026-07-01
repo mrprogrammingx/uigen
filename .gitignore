@@ -1,0 +1,7 @@
+CLAUDE.local.md
+.env
+node_modules/
+.next/
+prisma/dev.db
+src/generated/prisma
+.DS_Store
